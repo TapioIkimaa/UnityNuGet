@@ -72,6 +72,14 @@
         "listed": true,
         "version": "1.4.1"
     },
+    "Akka.TestKit": {
+        "listed": true,
+        "version": "1.4.1"
+    },
+    "Akka.TestKit.NUnit": {
+        "listed": true,
+        "version": "1.4.39"
+    },
     "Antlr4.Runtime.Standard": {
         "listed": true,
         "version": "4.9.1"
@@ -1249,6 +1257,26 @@
         "listed": true,
         "version": "11.0.1"
     },
+    "Nito.AsyncEx.Context": {
+        "listed": true,
+        "version": "5.0.0"
+    },
+    "Nito.AsyncEx.Coordination": {
+        "listed": true,
+        "version": "5.0.0"
+    },
+    "Nito.AsyncEx.Tasks": {
+        "listed": true,
+        "version": "5.0.0"
+    },
+    "Nito.Collections.Deque": {
+        "listed": true,
+        "version": "1.0.2"
+    },
+    "Nito.Disposables": {
+        "listed": true,
+        "version": "1.2.2"
+    },
     "NLog": {
         "listed": true,
         "version": "4.5.0"
@@ -1264,6 +1292,10 @@
         "listed": true,
         "version": "1.0.15",
         "analyzer": true
+    },
+    "NUnit": {
+        "listed": true,
+        "version": "3.10.0"
     },
     "NUnit.Analyzers": {
         "listed": true,
